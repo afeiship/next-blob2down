@@ -1,0 +1,13 @@
+{
+  "name": "angular2-spa",
+  "version": "0.0.0",
+  "description": "Angular2 single page application start kit.",
+  "homepage": "https://github.com/afeiship/angular2-spa",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
