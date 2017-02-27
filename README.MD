@@ -5,12 +5,12 @@
 ## ng2-cli:
 + https://cli.angular.io/
 + npm install -g angular-cli
-
++ http://stackoverflow.com/questions/36220256/angular2-angular-cli-sass-options
 
 ```bash
 ## Initialize a project:
 npm install -g @angular/cli
-ng new PROJECT_NAME
+ng new PROJECT_NAME --style=sass
 cd PROJECT_NAME
 ng serve
 
