@@ -21,6 +21,8 @@ ng help
 
 ## resources:
 + http://www.cnblogs.com/seesharply/p/6239169.html
++ http://stackoverflow.com/questions/40198685/angular2-routing-loading-twice
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
 
