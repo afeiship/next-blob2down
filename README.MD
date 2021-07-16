@@ -1,5 +1,5 @@
 # next-blob2down
-> Download blob.
+> Download from blob.
 
 [![version][version-image]][version-url]
 [![license][license-image]][license-url]

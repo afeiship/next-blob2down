@@ -1,7 +1,7 @@
 {
   "name": "@jswork/next-blob2down",
   "version": "1.0.0",
-  "description": "Download blob.",
+  "description": "Download from blob.",
   "homepage": "https://github.com/afeiship/next-blob2down",
   "author": {
     "name": "afei",
@@ -39,5 +39,12 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "download",
+    "down",
+    "file",
+    "blob",
+    "image"
+  ]
 }
