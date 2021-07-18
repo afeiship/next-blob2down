@@ -15,7 +15,7 @@ npm install -S @jswork/next-blob2down
 ```js
 import '@jswork/next-blob2down';
 
-// download a png
+// download a png with filename
 fetch('https://www.alo7.com/assest/images_cms/logo_title.png')
   .then(r=>r.blob())
   .then(res=>{
